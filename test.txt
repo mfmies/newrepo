@@ -1,1 +1,2 @@
 this has been a github test
+and now a repo has been cloned 
